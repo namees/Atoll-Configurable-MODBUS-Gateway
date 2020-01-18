@@ -38,6 +38,3 @@ Have a look at the Brochure :  https://github.com/atollsolutions/Atoll_Configura
 
 Also look at the Userguide : https://github.com/atollsolutions/Atoll_Configurable_MODBUS_Gateway/blob/master/Atoll-MODBUS-RTU%20Gateway%20UserManual-V3%20-%2022DEC2016.pdf
 
-6) Conversion chart of 4-20mA only for the series AR501RM42:
-https://github.com/atollsolutions/Atoll_Configurable_MODBUS_Gateway/blob/master/AtollConfix%204-20mA%20conversion%20chart.JPG
-
